@@ -131,7 +131,7 @@ sigs:
     - https://raw.githubusercontent.com/kubernetes/kubernetes/master/staging/src/k8s.io/apimachinery/OWNERS
   - name: yaml
     owners:
-    - https://raw.githubusercontent.com/kubernetes-sigs/yaml/master/OWNERS
+    - https://raw.githubusercontent.com/kubernetes-sigs/yaml/master/OWNERSjkjkjkjjkjkjkjk
 - dir: sig-apps
   name: Apps
   mission_statement: >
